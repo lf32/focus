@@ -1,2 +1,2 @@
 # focus
-Focus The Box
+Focus The Plus
